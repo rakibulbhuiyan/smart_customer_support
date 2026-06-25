@@ -1,0 +1,8 @@
+# requirements.txt
+Django
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+celery
+redis
+django-cors-headers
